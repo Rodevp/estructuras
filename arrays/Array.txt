@@ -1,0 +1,13 @@
+es una estructura de datos lineal
+tenemos que tener 2 conceptos claves a la hora de utilizarlos
+
+* Elemento -> valor almacenado en las posiciones del array.
+* indice -> referencia a la posicion del elemento
+
+hay distintos tipos de array
+1D una dimension los cuales se pueden ver como fila
+2D dos dimensiones las cuales se ven como una tabla
+3D tres dimensiones las cuales se pueden ver como un cubo
+
+* su tamaño es fijo
+* no puede agregar eliminar elementos

@@ -1,0 +1,12 @@
+NODOS Y SINGLY LINKED LIST
+
+* consisten en una serie de nodos que están conectados entre si
+* los más comunes son los sencillos y dobles
+* no se accede por indice sino por recorrido
+
+3 CONCEPTOS CLAVES 
+- DATA -> VALOR ALMACENADO EN LOS NODOS
+- NEXT -> ES LA REFERENCIA AL SIGUIENTE NODO
+- PREVIOUS -> REFERENCIA AL VALOR ANTERIOR
+- HEAD -> PRIMER NODO DE LA LISTA
+- TAIL -> ULTIMO NODO EN LA LISTA

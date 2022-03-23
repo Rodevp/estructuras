@@ -29,4 +29,5 @@ class Array :
     def __setitem__(self, index_value, new_item) :
         self.items[index_value] = new_item
 
-    
+
+#podremos usar tuplas que actuan como arrays

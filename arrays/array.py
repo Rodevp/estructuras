@@ -3,7 +3,8 @@
 class Array :
 
     #                  tamaño  , valor = NONE  
-    def __init__(self, capacity, fill_value) -> None:
+    def __init__(self, capacity, fill_value):
+        
         self.items = []
         #agregamos el elemento por su capacidad
         for i in range(capacity) :
